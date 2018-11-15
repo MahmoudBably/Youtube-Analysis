@@ -11,7 +11,7 @@ from pandas.plotting import table
 import matplotlib.ticker as tick
 import numpy as np
 
-DEVELOPER_KEY = "AIzaSyDXx3CWhRIQNHOI4p1Nxcmc9FLLEv9eFlU"
+DEVELOPER_KEY = "XXXXXX"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
